@@ -5,7 +5,7 @@
     "autoCreateDB": true,
     "notiGroup": true,
     "NOTIFICATION": true,
-    "allowInbox": false,
+    "allowInbox": true,
     "autoClean": true,
     "commandDisabled": [
         "sim.js"
@@ -17,14 +17,14 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
-    "PREFIX": "/",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100000478146113",
-        "61576520552554",
-        "61550035211214"
+        "100063229081678",
+        "100033472178222",
+        ""
     ],
     "NDH": [
-        "100000478146113"
+        "100063229081678"
     ],
     "DATABASE": {
         "sqlite": {
